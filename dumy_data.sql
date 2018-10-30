@@ -1,6 +1,5 @@
-
 \set last_update CURRENT_TIMESTAMP
-echo :last_update;
+
 
 INSERT INTO "category" ("name", "last_update")
 VALUES
